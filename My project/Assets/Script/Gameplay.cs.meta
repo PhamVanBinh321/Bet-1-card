@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32c86a694ad29b046a978678dd1b19da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doichupong: {instanceID: 0}
+  - batdau: {instanceID: 0}
+  - quanlynguoichoi: {instanceID: 0}
+  - hientiencuoc: {instanceID: 0}
+  - canvanshienbai: {fileID: 7750405187993255988, guid: 38d90d2f5e2f872428f09f295c4395c8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

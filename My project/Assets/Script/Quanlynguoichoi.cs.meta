@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5a13075792c2b74891db1cf7bbf4e27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvans: {fileID: 5068458476947957526, guid: a40989992794b714da1ac91bdf2e3620, type: 3}
+  - theo: {instanceID: 0}
+  - bobai: {instanceID: 0}
+  - tangcuoc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
